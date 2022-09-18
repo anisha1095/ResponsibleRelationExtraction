@@ -1,0 +1,9 @@
+For the datasets which have GT information:
+    1. read annotated tagged tokens and annotated relations
+/content/drive/MyDrive/HADR - Pingjing and Ly/april_16/sitreps_tagged_tokens.csv
+/content/drive/MyDrive/HADR - Pingjing and Ly/april_16/sitreps_gt_relations_0417.csv
+
+/content/drive/MyDrive/HADR - Pingjing and Ly/april_16/tweets_gt_relations.csv
+/content/drive/MyDrive/HADR - Pingjing and Ly/april_16/tweets_tagged_tokens.csv
+
+    2. compare human annotation with machine GT
