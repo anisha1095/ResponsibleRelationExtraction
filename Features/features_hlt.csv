@@ -1,0 +1,252 @@
+,sent_index,sentence_length,root_word,root_index,entity_1_index,entity_2_index,entity_distance,no_words_before_entity_1,no_words_after_entity_2,entity_1_root_distance,entity_2_root_distance,entity 1 name,entity 2 name,entity_type_1,entity_type_2,entity_pos_1,entity_pos_2,entity_dep_1,entity_dep_2,entity_tag_1,entity_tag_2,shortest_distance,label
+0,0.0,32,acquire,14,10,16,6,9,15,4,2,Viacom,DreamWorks,,,PROPN,PROPN,compound,compound,NNP,NNP,3,1
+1,1.0,23,established,3,6,19,13,5,3,-3,16,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-compound,compound-appos,NNP-NNP,NNP-NNP,6,1
+2,5.0,24,started,1,7,20,13,6,3,-6,19,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-compound,compound-pobj,NNP-NNP,NNP-NNP,8,1
+3,14.0,15,Agassi,1,1,13,12,0,1,0,12,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-ROOT,compound-pobj,NNP-NNP,NNP-NNP,3,1
+4,17.0,16,born,3,1,12,11,0,3,2,9,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubjpass,compound-pobj,NNP-NNP,NNP-NNP,3,1
+5,18.0,14,born,3,1,10,9,0,3,2,7,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubjpass,compound-appos,NNP-NNP,NNP-NNP,3,1
+6,23.0,17,did,2,1,11,10,0,5,1,9,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-pobj,NNP-NNP,NNP-NNP,5,1
+7,24.0,32,stand,2,7,20,13,6,11,-5,18,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,nmod-compound,NNP-NNP,NNP-NNP,6,1
+8,33.0,31,raised,16,2,11,9,1,19,14,-5,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-compound,compound-pobj,NNP-NNP,NNP-NNP,5,1
+9,36.0,34,Left,1,4,7,3,3,26,-3,6,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-pobj,NNP-NNP,NNP-NNP,2,1
+10,37.0,15,born,8,1,11,10,0,3,7,3,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubjpass,compound-pobj,NNP-NNP,NNP-NNP,3,1
+11,51.0,8,is,2,1,5,4,0,2,1,3,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-compound,NNP-NNP,NNP-NNP,3,1
+12,52.0,34,....s,0,12,21,9,11,12,-12,21,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-compound,compound-npadvmod,NNP-NNP,NNP-NNP,-1,1
+13,53.0,14,had,3,2,12,10,1,1,1,9,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-pobj,NNP-NNP,NNP-NNP,5,1
+14,79.0,14,is,2,1,12,11,0,1,1,10,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-pobj,NNP-NNP,NNP-NNP,5,1
+15,83.0,15,born,3,1,11,10,0,3,2,8,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubjpass,compound-pobj,NNP-NNP,NNP-NNP,3,1
+16,86.0,23,s,1,8,18,10,7,4,-7,17,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-compound,compound-pobj,NNP-NNP,NNP-NNP,7,1
+17,95.0,38,built,11,27,36,9,26,1,-16,25,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-pobj,NNP-NNP,NNP-NNP,3,1
+18,100.0,17,ran,1,4,14,10,3,2,-3,13,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-compound,compound-compound,NNP-NNP,NNP-NNP,6,1
+19,105.0,14,born,3,1,10,9,0,3,2,7,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubjpass,compound-pobj,NNP-NNP,NNP-NNP,3,1
+20,108.0,35,joins,7,1,6,5,0,28,6,-1,Andre Agassi,Las Vegas,-,-,PROPN-PROPN,PROPN-PROPN,compound-compound,compound-pobj,NNP-NNP,NNP-NNP,3,1
+21,2.0,18,born,11,4,16,12,3,1,7,5,George Gershwin,New York,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubjpass,compound-appos,NNP-NNP,NNP-NNP,4,1
+22,29.0,21,s,2,7,16,9,6,4,-5,14,George Gershwin,New York,-,-,PROPN-PROPN,PROPN-PROPN,compound-pobj,compound-conj,NNP-NNP,NNP-NNP,6,1
+23,42.0,36,__,1,8,15,7,7,20,-7,14,George Gershwin,New York,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubjpass,compound-conj,NNP-NNP,NNP-NNP,-1,1
+24,58.0,15,born,3,1,8,7,0,6,2,5,George Gershwin,New York,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubjpass,compound-appos,NNP-NNP,NNP-NNP,4,1
+25,62.0,20,born,3,1,12,11,0,7,2,9,George Gershwin,New York,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubjpass,compound-conj,NNP-NNP,NNP-NNP,4,1
+26,64.0,13,born,3,1,10,9,0,2,2,7,George Gershwin,New York,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubjpass,compound-compound,NNP-NNP,NNP-NNP,4,1
+27,67.0,22,is,2,1,14,13,0,7,1,12,George Gershwin,New York,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-appos,NNP-NNP,NNP-NNP,6,1
+28,69.0,24,born,3,1,12,11,0,11,2,9,George Gershwin,New York,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubjpass,compound-conj,NNP-NNP,NNP-NNP,4,1
+29,77.0,25,lists,2,8,18,10,7,6,-6,16,George Gershwin,New York,-,-,PROPN-PROPN,PROPN-PROPN,compound-pobj,compound-pobj,NNP-NNP,NNP-NNP,3,1
+30,84.0,17,born,3,1,10,9,0,6,2,7,George Gershwin,New York,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubjpass,compound-appos,NNP-NNP,NNP-NNP,3,1
+31,89.0,13,born,3,1,11,10,0,1,2,8,George Gershwin,New York,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubjpass,compound-pobj,NNP-NNP,NNP-NNP,3,1
+32,90.0,21,born,12,4,17,13,3,3,8,5,George Gershwin,New York,-,-,PROPN-PROPN,PROPN-PROPN,compound-dobj,compound-appos,NNP-NNP,NNP-NNP,4,1
+33,93.0,22,s,2,8,17,9,7,4,-6,15,George Gershwin,New York,-,-,PROPN-PROPN,PROPN-PROPN,compound-pobj,compound-conj,NNP-NNP,NNP-NNP,6,1
+34,3.0,15,__,0,3,11,8,2,3,-3,11,Andre - Agassi,Las Vegas,--,-,PROPN-PUNCT-PROPN,PROPN-PROPN,compound-punct-conj,compound-appos,NNP-HYPH-NNP,NNP-NNP,4,1
+35,4.0,14,born,3,1,6,5,0,7,2,3,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,2,1
+36,6.0,19,came,6,5,16,11,4,2,1,10,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubj,pobj,NNP-NNP,NNP,6,1
+37,9.0,20,born,3,1,8,7,0,11,2,5,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,2,1
+38,12.0,16,born,8,1,11,10,0,4,7,3,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,2,1
+39,13.0,32,expressed,2,10,19,9,9,12,-8,17,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-pobj,pobj,NNP-NNP,NNP,3,1
+40,16.0,30,s,2,14,26,12,13,3,-12,24,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-appos,pobj,NNP-NNP,NNP,9,1
+41,22.0,23,Kafka,2,2,13,11,1,9,0,11,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-ROOT,pobj,NNP-NNP,NNP,1,1
+42,28.0,13,born,3,1,12,11,0,0,2,9,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,2,1
+43,43.0,37,died,17,1,10,9,0,26,16,-7,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubj,appos,NNP-NNP,NNP,2,1
+44,48.0,14,born,5,3,11,8,2,2,2,6,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,2,1
+45,56.0,39,en,0,3,11,8,2,27,-3,11,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubj,compound,NNP-NNP,NNP,3,1
+46,61.0,15,born,3,1,10,9,0,4,2,7,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,4,1
+47,63.0,15,born,8,1,14,13,0,0,7,6,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,2,1
+48,68.0,21,"""",0,11,20,9,10,0,-11,20,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubj,pobj,NNP-NNP,NNP,2,1
+49,73.0,38,born,2,1,7,6,0,30,1,5,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubj,compound,NNP-NNP,NNP,4,1
+50,81.0,10,left,3,1,9,8,0,0,2,6,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubj,pobj,NNP-NNP,NNP,2,1
+51,82.0,15,Kafka,1,1,5,4,0,9,0,4,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-ROOT,pobj,NNP-NNP,NNP,1,1
+52,87.0,20,born,3,1,10,9,0,9,2,7,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,2,1
+53,88.0,29,died,9,1,5,4,0,23,8,-4,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubj,compound,NNP-NNP,NNP,2,1
+54,92.0,16,is,7,6,15,9,5,0,1,8,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-pobj,pobj,NNP-NNP,NNP,4,1
+55,94.0,25,born,8,1,11,10,0,13,7,3,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,2,1
+56,97.0,34,Kafka,1,1,14,13,0,19,0,13,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-ROOT,nmod,NNP-NNP,NNP,-1,1
+57,99.0,39,Kafka,1,1,5,4,0,33,0,4,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-ROOT,appos,NNP-NNP,NNP,2,1
+58,102.0,23,fr,0,3,10,7,2,12,-3,10,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubj,compound,NNP-NNP,NNP,3,1
+59,104.0,14,born,3,1,6,5,0,7,2,3,Franz Kafka,Prague,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,2,1
+60,7.0,20,born,4,3,11,8,2,8,1,7,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,nsubjpass,compound-pobj,NNP,NNP-NNP,3,1
+61,8.0,27,includes,2,22,25,3,21,1,-20,23,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,pobj,compound-compound,NNP,NNP-NNP,3,1
+62,11.0,15,born,4,3,11,8,2,3,1,7,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,nsubjpass,compound-pobj,NNP,NNP-NNP,3,1
+63,15.0,22,born,7,1,12,11,0,9,6,5,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,nsubjpass,compound-pobj,NNP,NNP-NNP,5,1
+64,26.0,28,raised,5,4,15,11,3,12,1,10,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,nsubj,compound-pobj,NNP,NNP-NNP,7,1
+65,27.0,29,is,15,3,11,8,2,17,12,-4,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,nsubj,compound-pobj,NNP,NNP-NNP,3,1
+66,30.0,31,is,16,3,12,9,2,18,13,-4,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,nsubj,compound-pobj,NNP,NNP-NNP,4,1
+67,39.0,19,been,11,7,17,10,6,1,4,6,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,appos,compound-pobj,NNP,NNP-NNP,6,1
+68,41.0,20,caused,11,1,4,3,0,15,10,-7,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,nsubj,compound-compound,NNP,NNP-NNP,3,1
+69,44.0,23,born,12,10,20,10,9,2,2,8,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,appos,compound-compound,NNP,NNP-NNP,7,1
+70,45.0,22,born,4,3,12,9,2,9,1,8,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,nsubjpass,compound-pobj,NNP,NNP-NNP,3,1
+71,55.0,13,born,4,3,11,8,2,1,1,7,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,nsubjpass,compound-pobj,NNP,NNP-NNP,3,1
+72,65.0,18,born,4,3,7,4,2,10,1,3,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,nsubjpass,compound-pobj,NNP,NNP-NNP,3,1
+73,70.0,29,been,17,3,13,10,2,15,14,-4,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,nsubj,compound-pobj,NNP,NNP-NNP,3,1
+74,72.0,12,Born,2,6,10,4,5,1,-4,8,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,dobj,compound-pobj,NNP,NNP-NNP,3,1
+75,74.0,29,born,19,14,25,11,13,3,5,6,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,appos,compound-pobj,NNP,NNP-NNP,5,1
+76,91.0,27,holds,17,4,15,11,3,11,13,-2,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,poss,compound-compound,NNP,NNP-NNP,9,1
+77,101.0,18,__,1,6,14,8,5,3,-5,13,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,nsubjpass,compound-pobj,NNP,NNP-NNP,3,1
+78,103.0,34,is,16,3,12,9,2,21,13,-4,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,nsubj,compound-pobj,NNP,NNP-NNP,3,1
+79,107.0,39,is,18,9,14,5,8,24,9,-4,Agassi,Las Vegas,,-,PROPN,PROPN-PROPN,poss,compound-pobj,NNP,NNP-NNP,2,1
+80,10.0,24,born,4,3,11,8,2,12,1,7,Chaplin,London,,,PROPN,PROPN,nsubjpass,pobj,NNP,NNP,2,1
+81,19.0,20,born,9,7,12,5,6,7,2,3,Chaplin,London,,,PROPN,PROPN,appos,pobj,NNP,NNP,3,1
+82,20.0,25,came,12,4,7,3,3,17,8,-5,Chaplin,London,,,PROPN,PROPN,nsubj,pobj,NNP,NNP,2,1
+83,21.0,33,born,6,4,14,10,3,18,2,8,Chaplin,London,,,PROPN,PROPN,compound,pobj,NNP,NNP,2,1
+84,31.0,27,__,1,6,16,10,5,10,-5,15,Chaplin,London,,,PROPN,PROPN,appos,conj,NNP,NNP,5,1
+85,38.0,16,born,2,6,10,4,5,5,-4,8,Chaplin,London,,,PROPN,PROPN,oprd,appos,NNP,NNP,3,1
+86,49.0,21,born,4,3,12,9,2,8,1,8,Chaplin,London,,,PROPN,PROPN,nsubjpass,pobj,NNP,NNP,6,1
+87,57.0,10,born,2,1,6,5,0,3,1,4,Chaplin,London,,,PROPN,PROPN,nsubjpass,compound,NNP,NNP,5,1
+88,59.0,17,Born,0,5,13,8,4,3,-5,13,Chaplin,London,,,PROPN,PROPN,nsubj,conj,NNP,NNP,4,1
+89,66.0,17,born,4,8,10,2,7,6,-4,6,Chaplin,London,,,PROPN,PROPN,oprd,pobj,NNP,NNP,2,1
+90,71.0,17,born,6,5,11,6,4,5,1,5,Chaplin,London,,,PROPN,PROPN,nsubjpass,appos,NNP,NNP,5,1
+91,96.0,38,born,25,23,28,5,22,9,2,3,Chaplin,London,,,PROPN,PROPN,nsubjpass,pobj,NNP,NNP,4,1
+92,25.0,31,born,3,1,12,11,0,18,2,9,Charlie Chaplin,London,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,4,1
+93,32.0,27,t,1,12,23,11,11,3,-11,22,Charlie Chaplin,London,-,,PROPN-PROPN,PROPN,compound-conj,pobj,NNP-NNP,NNP,7,1
+94,35.0,18,born,9,1,12,11,0,5,8,3,Charlie Chaplin,London,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,2,1
+95,50.0,38,was,15,1,13,12,0,24,14,-2,Charlie Chaplin,London,-,,PROPN-PROPN,PROPN,compound-poss,pobj,NNP-NNP,NNP,4,1
+96,60.0,17,born,11,5,14,9,4,2,6,3,Charlie Chaplin,London,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,4,1
+97,75.0,13,Chaplin,1,1,10,9,0,2,0,9,Charlie Chaplin,London,-,,PROPN-PROPN,PROPN,compound-ROOT,appos,NNP-NNP,NNP,2,1
+98,76.0,18,born,3,1,10,9,0,7,2,7,Charlie Chaplin,London,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,4,1
+99,78.0,16,born,12,5,15,10,4,0,7,3,Charlie Chaplin,London,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,2,1
+100,80.0,17,arrived,4,3,16,13,2,0,1,12,Charlie Chaplin,London,-,,PROPN-PROPN,PROPN,compound-nsubj,pobj,NNP-NNP,NNP,2,1
+101,85.0,26,see,3,8,17,9,7,8,-5,14,Charlie Chaplin,London,-,,PROPN-PROPN,PROPN,compound-pobj,pobj,NNP-NNP,NNP,1,1
+102,98.0,12,Excerpt,0,6,11,5,5,0,-6,11,Charlie Chaplin,London,-,,PROPN-PROPN,PROPN,compound-pobj,pobj,NNP-NNP,NNP,5,1
+103,106.0,12,born,8,2,11,9,1,0,6,3,Charlie Chaplin,London,-,,PROPN-PROPN,PROPN,compound-nsubjpass,pobj,NNP-NNP,NNP,2,1
+104,34.0,24,People,3,6,12,6,5,11,-3,9,Kafka,Prague,,,PROPN,PROPN,npadvmod,nsubj,NNP,NNP,2,1
+105,40.0,28,born,2,1,12,11,0,15,1,10,Kafka,Prague,,,PROPN,PROPN,nsubjpass,pobj,NNP,NNP,4,1
+106,47.0,27,are,22,14,19,5,13,7,8,-3,Kafka,Prague,,,PROPN,PROPN,poss,pobj,NNP,NNP,10,1
+107,46.0,18,born,8,1,13,12,0,4,7,5,Gershwin,New York,,-,PROPN,PROPN-PROPN,nsubjpass,compound-conj,NNP,NNP-NNP,5,1
+108,54.0,20,born,3,6,18,12,5,1,-3,15,Gershwin,New York,,-,PROPN,PROPN-PROPN,oprd,compound-appos,NNP,NNP-NNP,6,1
+109,109.0,32,created,8,5,10,5,4,21,3,2,Ruth Handler,the Barbie doll,-,--,PROPN-PROPN,DET-PROPN-NOUN,compound-nsubj,det-compound-dobj,NNP-NNP,DT-NNP-NN,3,1
+110,113.0,13,said,3,1,7,6,0,5,2,4,Ruth Handler,the Barbie doll,-,--,PROPN-PROPN,DET-PROPN-NOUN,compound-nsubjpass,det-compound-pobj,NNP-NNP,DT-NNP-NN,3,1
+111,116.0,32,recognised,4,1,7,6,0,24,3,3,Ruth Handler,the Barbie doll,-,--,PROPN-PROPN,DET-PROPN-NOUN,compound-nsubjpass,det-compound-pobj,NNP-NNP,DT-NNP-NN,3,1
+112,123.0,18,created,4,2,6,4,1,11,2,2,Ruth Handler,the Barbie doll,-,--,PROPN-PROPN,DET-PROPN-NOUN,compound-nsubj,det-compound-dobj,NNP-NNP,DT-NNP-NN,4,1
+113,125.0,17,began,2,1,6,5,0,10,1,4,Ruth Handler,the Barbie doll,-,--,PROPN-PROPN,DET-PROPN-NOUN,compound-nsubj,det-compound-appos,NNP-NNP,DT-NNP-NN,5,1
+114,133.0,15,is,1,8,3,-5,7,11,-7,2,Ruth Handler,the Barbie doll,-,--,PROPN-PROPN,DET-PROPN-NOUN,compound-dobj,det-compound-dobj,NNP-NNP,DT-NNP-NN,2,1
+115,134.0,32,Handler,4,4,19,15,3,12,0,15,Ruth Handler,the Barbie doll,-,--,PROPN-PROPN,DET-PROPN-NOUN,compound-nsubjpass,det-compound-pobj,NNP-NNP,DT-NNP-NN,3,1
+116,144.0,13,facts,1,4,8,4,3,4,-3,7,Ruth Handler,the Barbie doll,-,--,PROPN-PROPN,DET-PROPN-NOUN,compound-compound,det-compound-pobj,NNP-NNP,DT-NNP-NN,4,1
+117,145.0,20,events,5,11,17,6,10,2,-6,12,Ruth Handler,the Barbie doll,-,--,PROPN-PROPN,DET-PROPN-NOUN,compound-nsubj,det-compound-pobj,NNP-NNP,DT-NNP-NN,5,1
+118,147.0,20,created,3,2,5,3,1,14,1,2,Ruth Handler,the Barbie doll,-,--,PROPN-PROPN,DET-PROPN-NOUN,compound-nsubj,det-compound-dobj,NNP-NNP,DT-NNP-NN,3,1
+119,110.0,25,is,4,1,6,5,0,18,3,2,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-NOUN,compound-nsubj-punct-nsubj,det-compound-compound-pobj,NNP-NNPS-HYPH-NNP,DT-NNP-NNP-NN,3,1
+120,111.0,29,is,4,1,6,5,0,22,3,2,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-PROPN,compound-nsubj-punct-nsubj,det-compound-compound-compound,NNP-NNPS-HYPH-NNP,DT-NNP-NNP-NNP,3,1
+121,112.0,22,Watch,0,6,15,9,5,6,-6,15,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-NOUN,compound-compound-punct-compound,det-compound-compound-compound,NNP-NNPS-HYPH-NNP,DT-NNP-NNP-NN,7,1
+122,114.0,15,is,6,2,8,6,1,6,4,2,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-NOUN,compound-compound-punct-compound,det-compound-compound-pobj,NNP-NNPS-HYPH-NNP,DT-NNP-NNP-NN,4,1
+123,118.0,24,is,4,1,6,5,0,17,3,2,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-PROPN,compound-nsubj-punct-nsubj,det-compound-compound-pobj,NNP-NNPS-HYPH-NNP,DT-NNP-NNP-NNP,3,1
+124,119.0,16,Gazette,2,6,10,4,5,5,-4,8,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-ADJ-NOUN,compound-ROOT-punct-appos,det-compound-compound-pobj,NNP-NNPS-:-NNP,DT-NNP-JJ-NN,2,1
+125,120.0,28,founded,9,3,11,8,2,16,6,2,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-ADJ-NOUN,compound-dep-punct-compound,det-compound-compound-compound,NNP-NNPS-HYPH-NNP,DT-NNP-JJ-NN,6,1
+126,121.0,20,.,0,11,16,5,10,3,-11,16,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-NOUN,compound-nsubj-punct-appos,det-compound-compound-dobj,NNP-NNPS-HYPH-NNP,DT-NNP-NNP-NN,5,1
+127,122.0,31,is,4,1,6,5,0,24,3,2,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-NOUN,compound-nsubj-punct-nsubj,det-compound-compound-pobj,NNP-NNPS-HYPH-NNP,DT-NNP-NNP-NN,4,1
+128,124.0,36,2,0,6,11,5,5,24,-6,11,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-ADJ-NOUN,compound-ROOT-punct-appos,det-compound-compound-pobj,NNP-NNPS-HYPH-NNP,DT-NNP-JJ-NN,2,1
+129,127.0,34,invented,28,25,2,-23,24,31,3,-26,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-NOUN,compound-compound-punct-nsubj,det-compound-compound-dobj,NNP-NNPS-HYPH-NNP,DT-NNP-NNP-NN,5,1
+130,131.0,26,Finder,3,6,15,9,5,10,-3,12,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-NOUN,compound-compound-punct-compound,det-compound-compound-pobj,NNP-NNPS-HYPH-NNP,DT-NNP-NNP-NN,3,1
+131,132.0,30,Lee,3,1,16,15,0,13,2,13,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-ADJ-NOUN,compound-compound-punct-ROOT,det-compound-compound-pobj,NNP-NNPS-:-NNP,DT-NNP-JJ-NN,-1,1
+132,138.0,25,Finder,3,6,14,8,5,10,-3,11,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-NOUN,compound-compound-punct-compound,det-compound-compound-pobj,NNP-NNPS-HYPH-NNP,DT-NNP-NNP-NN,4,1
+133,139.0,38,is,11,1,13,12,0,24,10,2,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-PROPN,compound-compound-punct-nsubj,det-compound-compound-pobj,NNP-NNPS-HYPH-NNP,DT-NNP-NNP-NNP,3,1
+134,140.0,31,was,6,13,3,-10,12,27,-7,-3,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-NOUN,compound-compound-punct-nsubj,det-compound-compound-dobj,NNP-NNP-:-NNP,DT-NNP-NNP-NN,5,1
+135,141.0,40,LEE,3,22,29,7,21,10,-19,26,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-NOUN,compound-compound-punct-nsubj,det-compound-compound-pobj,NNP-NNPS-HYPH-NNP,DT-NNP-NNP-NN,2,1
+136,143.0,14,laid,4,1,6,5,0,7,3,2,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-NOUN,compound-compound-punct-nsubj,det-compound-compound-pobj,NNP-NNPS-:-NNP,DT-NNP-NNP-NN,4,1
+137,149.0,21,Lee,6,4,17,13,3,3,2,11,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-NOUN,compound-compound-punct-ROOT,det-compound-compound-pobj,NNP-NNPS-:-NNP,DT-NNP-NNP-NN,9,1
+138,150.0,13,credited,5,1,9,8,0,3,4,4,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-NOUN,compound-nsubjpass-punct-appos,det-compound-compound-dobj,NNP-NNPS-HYPH-NNP,DT-NNP-NNP-NN,6,1
+139,151.0,24,Title,0,3,18,15,2,5,-3,18,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-PROPN-PROPN,compound-npadvmod-punct-nmod,det-compound-compound-pobj,NNP-NNPS-HYPH-NNP,DT-NNP-NNP-NNP,-1,1
+140,152.0,30,invented,7,1,9,8,0,20,6,2,Tim Berners - Lee,the World Wide Web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-PROPN-ADJ-NOUN,compound-compound-punct-nsubj,det-compound-compound-dobj,NNP-NNPS-HYPH-NNP,DT-NNP-JJ-NN,4,1
+141,115.0,33,deaths,2,19,13,-6,18,19,-17,11,Ruth Handler,the Barbie Doll,-,--,PROPN-PROPN,DET-PROPN-PROPN,compound-compound,det-compound-pobj,NNP-NNP,DT-NNP-NNP,5,1
+142,130.0,19,Opis,0,10,14,4,9,4,-10,14,Ruth Handler,the Barbie Doll,-,--,PROPN-PROPN,DET-PROPN-PROPN,compound-conj,det-compound-dobj,NNP-NNP,DT-NNP-NNP,3,1
+143,136.0,33,Handler,1,1,18,17,0,14,0,17,Ruth Handler,the Barbie Doll,-,--,PROPN-PROPN,DET-PROPN-PROPN,compound-pobj,det-compound-pobj,NNP-NNP,DT-NNP-NNP,9,1
+144,146.0,13,Facts,4,2,7,5,1,5,2,3,Ruth Handler,the Barbie Doll,-,--,PROPN-PROPN,DET-PROPN-PROPN,compound-compound,det-compound-pobj,NNP-NNP,DT-NNP-NNP,3,1
+145,148.0,17,created,10,1,12,11,0,4,9,2,Ruth Handler,the Barbie Doll,-,--,PROPN-PROPN,DET-PROPN-PROPN,compound-nsubj,det-compound-dobj,NNP-NNP,DT-NNP-NNP,3,1
+146,117.0,22,Know,2,6,11,5,5,10,-4,9,Ruth Handler,The Barbie Doll,-,--,PROPN-PROPN,DET-PROPN-PROPN,compound-pobj,det-compound-dobj,NNP-NNP,DT-NNP-NNP,3,1
+147,126.0,32,is,5,3,7,4,2,24,2,2,Berners - Lee,the World Wide Web,--,---,PROPN-PUNCT-PROPN,DET-PROPN-PROPN-NOUN,nsubj-punct-nsubj,det-compound-compound-compound,NNPS-:-NNP,DT-NNP-NNP-NN,3,1
+148,128.0,34,is,12,7,4,-3,6,29,5,-8,Berners - Lee,the World Wide Web,--,---,PROPN-PUNCT-PROPN,DET-PROPN-PROPN-NOUN,compound-punct-nsubj,det-compound-compound-compound,NNPS-HYPH-NNP,DT-NNP-NNP-NN,5,1
+149,135.0,22,founded,6,4,8,4,3,13,2,2,Berners - Lee,the World Wide Web,--,---,PROPN-PUNCT-PROPN,DET-PROPN-ADJ-NOUN,compound-punct-nsubj,det-compound-compound-compound,NNPS-HYPH-NNP,DT-NNP-JJ-NN,5,1
+150,137.0,34,heads,4,1,6,5,0,27,3,2,Berners - Lee,the World Wide Web,--,---,PROPN-PUNCT-PROPN,DET-PROPN-ADJ-NOUN,compound-punct-nsubj,det-compound-compound-compound,NNP-:-NNP,DT-NNP-JJ-NN,5,1
+151,142.0,34,is,16,24,3,-21,23,30,-8,-13,Berners - Lee,the World Wide Web,--,---,PROPN-PUNCT-PROPN,DET-PROPN-ADJ-NOUN,compound-punct-nsubj,det-compound-compound-pobj,NNPS-HYPH-NNP,DT-NNP-JJ-NN,7,1
+152,129.0,14,Weaving,0,5,2,-3,4,11,-5,2,Tim Berners - Lee,the world wide web,---,---,PROPN-PROPN-PUNCT-PROPN,DET-NOUN-ADJ-NOUN,compound-dobj-punct-dep,det-dobj-amod-dobj,NNP-NNPS-HYPH-NNP,DT-NN-JJ-NN,2,1
+153,153.0,23,knew,15,2,7,5,1,15,13,-8,Wolfgang Amadeus Mozart,Vienna,--,,PROPN-PROPN-PROPN,PROPN,compound-compound-nsubj,pobj,NNP-NNP-NNP,NNP,3,1
+154,161.0,24,marked,12,1,7,6,0,16,11,-5,Wolfgang Amadeus Mozart,Vienna,--,,PROPN-PROPN-PROPN,PROPN,compound-compound-poss,pobj,NNP-NNP-NNP,NNP,3,1
+155,154.0,12,wins,2,1,5,4,0,6,1,3,Albert Einstein,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-dobj,NNP-NNP,NNP-NNP,2,1
+156,159.0,19,received,2,1,5,4,0,13,1,3,Albert Einstein,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-dobj,NNP-NNP,NNP-NNP,2,1
+157,165.0,10,won,2,1,5,4,0,4,1,3,Albert Einstein,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-dobj,NNP-NNP,NNP-NNP,2,1
+158,173.0,13,explained,2,1,11,10,0,1,1,9,Albert Einstein,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-dobj,NNP-NNP,NNP-NNP,3,1
+159,207.0,17,was,7,1,10,9,0,6,6,3,Albert Einstein,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-compound,NNP-NNP,NNP-NNP,3,1
+160,227.0,12,win,6,5,9,4,4,2,1,3,Albert Einstein,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-dobj,NNP-NNP,NNP-NNP,2,1
+161,228.0,19,received,2,1,5,4,0,13,1,3,Albert Einstein,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-dobj,NNP-NNP,NNP-NNP,2,1
+162,232.0,25,'s,11,15,19,4,14,5,-4,8,Albert Einstein,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-dobj,NNP-NNP,NNP-NNP,2,1
+163,233.0,25,'s,11,15,19,4,14,5,-4,8,Albert Einstein,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-dobj,NNP-NNP,NNP-NNP,2,1
+164,235.0,22,is,2,8,20,12,7,1,-6,18,Albert Einstein,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-ROOT,compound-compound,NNP-NNP,NNP-NNP,-1,1
+165,238.0,13,explained,2,1,11,10,0,1,1,9,Albert Einstein,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-dobj,NNP-NNP,NNP-NNP,3,1
+166,155.0,11,established,3,2,6,4,1,4,1,3,President Truman,Presidential Medal of Freedom,-,---,PROPN-PROPN,PROPN-PROPN-ADP-PROPN,compound-nsubj,compound-dobj-prep-pobj,NNP-NNP,NNP-NNP-IN-NNP,2,1
+167,217.0,27,reintroduced,15,3,11,8,2,15,12,-4,President Truman,Presidential Medal of Freedom,-,---,PROPN-PROPN,PROPN-PROPN-ADP-PROPN,compound-pobj,compound-nsubjpass-prep-pobj,NNP-NNP,NNP-NNP-IN-NNP,4,1
+168,156.0,15,inspiration,0,6,8,2,5,6,-6,8,Nelson,the World Wide Web,,---,PROPN,DET-PROPN-PROPN-PROPN,nsubj,det-compound-compound-dobj,NNP,DT-NNP-NNP-NNP,3,1
+169,206.0,16,sees,1,1,3,2,0,12,0,2,Nelson,the World Wide Web,,---,PROPN,DET-PROPN-PROPN-NOUN,nsubj,det-compound-compound-dobj,NNP,DT-NNP-NNP-NN,3,1
+170,215.0,34,hates,1,1,3,2,0,30,0,2,Nelson,the World Wide Web,,---,PROPN,DET-PROPN-PROPN-NOUN,nsubj,det-compound-compound-dobj,NNP,DT-NNP-NNP-NN,2,1
+171,157.0,8,beats,1,1,3,2,0,4,0,2,Yahoo,Microsoft,,,PROPN,PROPN,nsubj,dobj,NNP,NNP,2,1
+172,174.0,9,Yahoo,0,1,6,5,0,2,-1,6,Yahoo,Microsoft,,,PROPN,PROPN,ROOT,appos,NNP,NNP,4,1
+173,180.0,11,"""",0,2,4,2,1,6,-2,4,Yahoo,Microsoft,,,PROPN,PROPN,nsubj,nsubj,NNP,NNP,1,1
+174,224.0,5,Offer,4,1,3,2,0,1,3,-1,Yahoo,Microsoft,,,PROPN,PROPN,compound,compound,NNP,NNP,2,1
+175,158.0,11,awarded,2,1,4,3,0,6,1,2,John McCain,Purple Heart,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-dobj,NNP-NNP,NNP-NNP,2,1
+176,160.0,29,News,4,21,27,6,20,1,-17,23,John McCain,Purple Heart,-,-,PROPN-PROPN,PROPN-PROPN,compound-dative,compound-pobj,NNP-NNP,NNP-NNP,4,1
+177,162.0,32,V,1,4,12,8,3,19,-3,11,Damadian,Nobel Prize,,-,PROPN,PROPN-PROPN,nsubjpass,compound-pobj,NNP,NNP-NNP,4,1
+178,212.0,25,fall,1,9,13,4,8,11,-8,12,Damadian,Nobel Prize,,-,PROPN,PROPN-PROPN,nsubjpass,compound-dobj,NNP,NNP-NNP,2,1
+179,163.0,22,named,5,4,9,5,3,12,1,4,Frank Robinson,Coca - Cola,-,--,PROPN-PROPN,PROPN-PUNCT-PROPN,compound-appos,compound-punct-appos,NNP-NNP,NNP-HYPH-NNP,4,1
+180,190.0,21,used,5,4,16,12,3,4,1,11,Frank Robinson,Coca - Cola,-,--,PROPN-PROPN,PROPN-PUNCT-PROPN,compound-nsubj,compound-punct-compound,NNP-NNP,NNP-HYPH-NNP,5,1
+181,194.0,26,came,5,4,11,7,3,14,1,6,Frank Robinson,Coca - Cola,-,--,PROPN-PROPN,PROPN-PUNCT-PROPN,compound-appos,compound-punct-appos,NNP-NNP,NNP-HYPH-NNP,6,1
+182,164.0,33,showed,1,1,4,3,0,28,0,3,Kamen,the Segway,,-,PROPN,DET-PROPN,nsubj,det-dobj,NNP,DT-NNP,1,1
+183,200.0,21,inspired,10,8,3,-5,7,17,2,-7,Kamen,the Segway,,-,PROPN,DET-PROPN,nsubjpass,det-dobj,NNP,DT-NNP,5,1
+184,222.0,5,unveiled,1,1,3,2,0,1,0,2,Kamen,the Segway,,-,PROPN,DET-PROPN,nsubj,det-dobj,NNP,DT-NNP,1,1
+185,166.0,26,proposed,4,3,12,9,2,13,1,8,Ted Nelson,the World Wide Web,-,---,PROPN-PROPN,DET-PROPN-PROPN-PROPN,compound-nsubj,det-compound-compound-pobj,NNP-NNP,DT-NNP-NNP-NNP,5,1
+186,167.0,38,dismissed,11,16,20,4,15,17,-5,9,Pfizer,Teva,,,PROPN,PROPN,nsubj,dobj,NNP,NNP,2,1
+187,168.0,26,DELHI,1,6,14,8,5,11,-5,13,Pfizer,Teva,,,PROPN,PROPN,nsubj,conj,NNP,NNP,2,1
+188,170.0,33,filed,20,2,8,6,1,24,18,-12,Pfizer,Teva,,,PROPN,PROPN,nsubj,pobj,NNP,NNP,2,1
+189,187.0,6,settles,1,1,6,5,0,-1,0,5,Pfizer,Teva,,,NOUN,PROPN,nsubj,pobj,NN,NNP,-1,1
+190,189.0,5,sues,1,1,3,2,0,1,0,2,Pfizer,Teva,,,NOUN,PROPN,compound,dobj,NN,NNP,2,1
+191,196.0,12,Settlement,2,1,5,4,0,6,1,3,Pfizer,Teva,,,PROPN,PROPN,compound,pobj,NNP,NNP,1,1
+192,221.0,8,sues,1,1,5,4,0,2,0,4,Pfizer,Teva,,,NOUN,PROPN,nsubj,ROOT,NN,NNP,1,1
+193,169.0,33,.,0,19,20,1,18,12,-19,20,Joseph Pulitzer,Pulitzer Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-nsubj,NNP-NNP,NNP-NNP,1,1
+194,234.0,14,Is,2,1,2,1,0,11,1,0,Joseph Pulitzer,Pulitzer Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-dobj,NNP-NNP,NNP-NNP,1,1
+195,236.0,33,.,0,19,20,1,18,12,-19,20,Joseph Pulitzer,Pulitzer Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-nsubj,NNP-NNP,NNP-NNP,1,1
+196,171.0,23,plan,4,2,4,2,1,18,2,0,Yahoo!,Microsoft,,,PROPN,PROPN,nsubj,conj,NNPS,NNP,3,1
+197,182.0,11,"""",0,2,5,3,1,5,-2,5,Yahoo!,Microsoft,,,PROPN,PROPN,ROOT,pobj,NNP,NNP,-1,1
+198,172.0,8,From,0,4,7,3,3,0,-4,7,Mozart,Vienna,,,PROPN,PROPN,pobj,pobj,NNP,NNP,1,1
+199,175.0,8,lived,1,1,4,3,0,3,0,3,Mozart,Vienna,,,PROPN,PROPN,nsubj,pobj,NNP,NNP,1,1
+200,176.0,18,says,2,12,17,5,11,0,-10,15,Mozart,Vienna,,,PROPN,PROPN,pobj,pobj,NNP,NNP,3,1
+201,181.0,21,found,5,14,20,6,13,0,-9,15,Mozart,Vienna,,,PROPN,PROPN,pobj,pobj,NNP,NNP,5,1
+202,184.0,13,spent,1,1,9,8,0,3,0,8,Mozart,Vienna,,,PROPN,PROPN,nsubj,pobj,NNP,NNP,2,1
+203,185.0,24,summoned,5,4,8,4,3,15,1,3,Mozart,Vienna,,,PROPN,PROPN,nsubjpass,pobj,NNP,NNP,2,1
+204,192.0,28,visited,4,4,6,2,3,21,0,2,Mozart,Vienna,,,PROPN,PROPN,nsubj,dobj,NNP,NNP,1,1
+205,197.0,34,dies,1,1,10,9,0,23,0,9,Mozart,Vienna,,,PROPN,PROPN,nsubj,pobj,NNP,NNP,1,1
+206,198.0,23,buried,2,1,6,5,0,16,1,4,Mozart,Vienna,,,PROPN,PROPN,nsubjpass,compound,NNP,NNP,3,1
+207,216.0,23,died,1,1,4,3,0,18,0,3,Mozart,Vienna,,,PROPN,PROPN,nsubj,pobj,NNP,NNP,1,1
+208,218.0,22,held,9,1,8,7,0,13,8,-1,Mozart,Vienna,,,PROPN,PROPN,nsubj,pobj,NNP,NNP,4,1
+209,225.0,18,performed,9,9,12,3,8,5,0,3,Mozart,Vienna,,,PROPN,PROPN,nsubj,pobj,NNP,NNP,1,1
+210,177.0,9,Inventor,3,1,6,5,0,2,2,3,John Pemberton,Coca - Cola,-,--,PROPN-PROPN,PROPN-PUNCT-PROPN,compound-compound,compound-punct-pobj,NNP-NNP,NNP-HYPH-NNP,4,1
+211,204.0,13,*,0,4,7,3,3,5,-4,7,John Pemberton,Coca - Cola,-,--,PROPN-PROPN,PROPN-PUNCT-PROPN,compound-nsubj,compound-punct-dobj,NNP-NNP,NNP-HYPH-NNP,3,1
+212,211.0,18,begins,3,2,14,12,1,3,1,11,John Pemberton,Coca - Cola,-,--,PROPN-PROPN,PROPN-PUNCT-PROPN,compound-nsubj,compound-punct-dobj,NNP-NNP,NNP-HYPH-NNP,5,1
+213,178.0,11,brought,1,1,9,8,0,1,0,8,Pfizer,Teva Pharmaceuticals,,-,NOUN,PROPN-PROPN,nsubj,compound-pobj,NN,NNP-NNPS,3,1
+214,179.0,6,wins,3,2,5,3,1,0,1,2,Albert Einstein,Nobel prize,-,-,PROPN-PROPN,PROPN-NOUN,compound-nsubj,compound-dobj,NNP-NNP,NNP-NN,2,1
+215,183.0,16,earned,3,1,12,11,0,3,2,9,John Steinbeck,Pulitzer Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-attr,NNP-NNP,NNP-NNP,5,1
+216,188.0,17,awarded,3,1,13,12,0,3,2,10,John Steinbeck,Pulitzer Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubjpass,compound-appos,NNP-NNP,NNP-NNP,3,1
+217,203.0,38,is,2,1,9,8,0,28,1,7,John Steinbeck,Pulitzer Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-nsubj,NNP-NNP,NNP-NNP,5,1
+218,246.0,16,earned,3,1,12,11,0,3,2,9,John Steinbeck,Pulitzer Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-attr,NNP-NNP,NNP-NNP,5,1
+219,186.0,19,passed,2,1,7,6,0,11,1,5,Damadian,Nobel prize,,-,PROPN,PROPN-NOUN,nsubjpass,compound-pobj,NNP,NNP-NN,3,1
+220,191.0,10,came,1,1,6,5,0,3,0,5,Robinson,Coca - Cola,,--,PROPN,PROPN-PUNCT-PROPN,nsubj,compound-punct-pobj,NNP,NNP-HYPH-NNP,3,1
+221,199.0,18,marketed,3,3,5,2,2,12,0,2,Robinson,Coca - Cola,,--,PROPN,PROPN-PUNCT-PROPN,conj,compound-punct-dobj,NNP,NNP-HYPH-NNP,2,1
+222,193.0,14,sold,1,1,3,2,0,10,0,2,Pemberton,Coca - Cola,,--,PROPN,PROPN-PUNCT-PROPN,nsubj,compound-punct-compound,NNP,NNP-HYPH-NNP,3,1
+223,195.0,21,Kamen,1,1,9,8,0,11,0,8,Dean Kamen,the Segway Human Transporter,-,---,PROPN-PROPN,DET-PROPN-PROPN-PROPN,compound-ROOT,det-compound-compound-compound,NNP-NNP,DT-NNP-NNP-NNP,4,1
+224,202.0,36,is,2,1,4,3,0,31,1,2,Dean Kamen,the Segway Human Transporter,-,---,PROPN-PROPN,DET-PROPN-PROPN-PROPN,compound-nsubj,det-compound-compound-compound,NNP-NNP,DT-NNP-NNP-NNP,2,1
+225,201.0,27,partnered,3,6,11,5,5,15,-3,8,Dean Kamen,the Segway,-,-,PROPN-PROPN,DET-PROPN,compound-pobj,det-pobj,NNP-NNP,DT-NNP,3,1
+226,214.0,13,known,4,1,7,6,0,5,3,3,Dean Kamen,the Segway,-,-,PROPN-PROPN,DET-PROPN,compound-nsubjpass,det-compound,NNP-NNP,DT-NNP,3,1
+227,205.0,20,.,0,4,8,4,3,11,-4,8,John Pemberton,Coca Cola,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-compound,NNP-NNP,NNP-NNP,3,1
+228,208.0,8,was,2,1,7,6,0,0,1,5,John Pemberton,Coca Cola,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-pobj,NNP-NNP,NNP-NNP,4,1
+229,209.0,23,said,21,3,8,5,2,14,18,-13,Harry Truman,Presidential Medal of Freedom,-,---,PROPN-PROPN,PROPN-PROPN-ADP-PROPN,compound-attr,compound-dobj-prep-pobj,NNP-NNP,NNP-NNP-IN-NNP,4,1
+230,210.0,34,s,5,1,12,11,0,21,4,7,Pfizer,Teva Pharmaceutical Industries,,--,PROPN,PROPN-PROPN-PROPN,nsubj,compound-compound-dobj,NNP,NNP-NNP-NNPS,4,1
+231,213.0,20,Fight,1,4,14,10,3,5,-3,13,Raymond Damadian,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-dobj,NNP-NNP,NNP-NNP,5,1
+232,219.0,28,born,11,2,22,20,1,5,9,11,Einstein,Nobel Prize,,-,PROPN,PROPN-PROPN,nsubjpass,compound-dobj,NNP,NNP-NNP,-1,1
+233,220.0,35,Einstein,1,2,20,18,1,14,-1,19,Einstein,Nobel Prize,,-,PROPN,PROPN-PROPN,nsubj,compound-dobj,NNP,NNP-NNP,4,1
+234,226.0,38,received,1,1,13,12,0,24,0,12,Einstein,Nobel Prize,,-,PROPN,PROPN-PROPN,nsubj,compound-pobj,NNP,NNP-NNP,2,1
+235,223.0,16,received,1,1,4,3,0,11,0,3,Steinbeck,Pulitzer Prize,,-,PROPN,PROPN-PROPN,nsubj,compound-dobj,NNP,NNP-NNP,1,1
+236,244.0,11,receives,1,1,4,3,0,6,0,3,Steinbeck,Pulitzer Prize,,-,PROPN,PROPN-PROPN,nsubj,compound-dobj,NNP,NNP-NNP,1,1
+237,229.0,29,News,4,21,27,6,20,1,-17,23,john McCain,Purple Heart,-,-,PROPN-PROPN,PROPN-PROPN,compound-dobj,compound-pobj,NNP-NNP,NNP-NNP,4,1
+238,230.0,22,revolutionized,2,8,12,4,7,9,-6,10,Crick,Nobel Prize,,-,PROPN,PROPN-PROPN,dobj,compound-appos,NNP,NNP-NNP,3,1
+239,237.0,15,received,3,3,6,3,2,8,0,3,Crick,Nobel Prize,,-,PROPN,PROPN-PROPN,nsubj,compound-dobj,NNP,NNP-NNP,1,1
+240,239.0,10,win,5,5,8,3,4,1,0,3,Crick,Nobel Prize,,-,PROPN,PROPN-PROPN,conj,compound-dobj,NNP,NNP-NNP,1,1
+241,240.0,10,win,5,5,8,3,4,1,0,3,Crick,Nobel Prize,,-,PROPN,PROPN-PROPN,conj,compound-dobj,NNP,NNP-NNP,1,1
+242,243.0,39,considered,16,26,35,9,25,3,-10,19,Crick,Nobel Prize,,-,PROPN,PROPN-PROPN,conj,compound-dobj,NNP,NNP-NNP,3,1
+243,250.0,30,credited,17,14,25,11,13,4,3,8,Crick,Nobel Prize,,-,PROPN,PROPN-PROPN,conj,compound-dobj,NNP,NNP-NNP,11,1
+244,231.0,26,uncovered,5,4,14,10,3,11,1,9,Francis Crick,Nobel prize,-,-,PROPN-PROPN,PROPN-NOUN,compound-conj,compound-dobj,NNP-NNP,NNP-NN,4,1
+245,241.0,39,attributed,14,18,26,8,17,12,-4,12,Francis Crick,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-pobj,compound-pobj,NNP-NNP,NNP-NNP,3,1
+246,242.0,31,Watson,0,7,18,11,6,12,-7,18,Francis Crick,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-ROOT,compound-dobj,NNP-NNP,NNP-NNP,-1,1
+247,245.0,12,received,6,5,8,3,4,3,1,2,Francis Crick,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-nsubj,compound-dobj,NNP-NNP,NNP-NNP,2,1
+248,247.0,19,describe,5,4,14,10,3,4,1,9,Francis Crick,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-conj,compound-dobj,NNP-NNP,NNP-NNP,4,1
+249,248.0,24,discovered,11,10,22,12,9,1,1,11,Francis Crick,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-conj,compound-dobj,NNP-NNP,NNP-NNP,5,1
+250,249.0,33,gone,10,13,24,11,12,8,-3,14,Francis Crick,Nobel Prize,-,-,PROPN-PROPN,PROPN-PROPN,compound-pobj,compound-dobj,NNP-NNP,NNP-NNP,2,1
